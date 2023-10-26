@@ -1,0 +1,2 @@
+2023-10-26 18:24:19.061 | ERROR    | __main__:get_movie_html:74 - mv100248No staff found:'NoneType' object has no attribute 'find_all'
+2023-10-26 18:24:19.111 | ERROR    | __main__:get_movie_html:74 - mv98625No staff found:'NoneType' object has no attribute 'find_all'
